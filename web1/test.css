@@ -1,0 +1,47 @@
+
+h1{
+        font-family: "標楷體";
+    }
+#maindiv{
+        font-family: "新細4明體","微軟正黑體";
+        font-style:normal;
+        color: red;
+        
+    }
+@font-face {
+    font-family: MyFont;
+    src: url(./BebasNeue-Regular.ttf);
+}
+
+.poem{
+        font-family: MyFont;
+        
+        color:green;
+        font-size: 150%;
+    }
+#paddingtest{
+    max-width: 800px;
+    min-width: 600px;
+    min-height: 200px;
+    max-height: 100px;
+    background-color: grey;
+    padding: 200px 50px;
+    box-sizing: border-box;
+    overflow: scroll;
+}
+
+#box01{
+    padding: 500px;
+    margin: 100px;
+    color:  white;
+    background-color: red;
+}
+
+#box02{
+
+    padding: 5px;
+    margin: 10px;
+    color: #000000;
+    background: color #ff0; ;
+
+}

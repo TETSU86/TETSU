@@ -1,0 +1,17 @@
+/*背景顏色#fbf9cc*/
+body{
+    background-color: #fbf9cc;
+}
+
+/* 大標題 */
+h1{
+    font-size: 300%;
+    color:#FFFFFF;
+    background-color:green;
+    width: 250px;
+    line-height: 1em;
+    padding: 20px;
+    text-align: center;
+    border:3px solid lightgreen;
+
+}
